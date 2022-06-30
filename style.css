@@ -1,0 +1,13 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+a:hover {
+  background: lightskyblue;
+}
+
+a {
+  text-decoration: none;
+}
+.ted {
+  text-decoration: underline;
+}
